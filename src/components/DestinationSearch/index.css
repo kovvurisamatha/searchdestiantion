@@ -1,0 +1,11 @@
+.bg-container {
+  background-color: white;
+}
+.heading {
+  color: black;
+  font-family: 'roboto';
+  text-align: center;
+}
+.card-container{
+  background-color:#f1f5f9;
+}
